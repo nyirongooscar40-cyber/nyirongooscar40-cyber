@@ -20,51 +20,45 @@ Business Problem Solving with Data
 
 # 🛠️ Tech Stack
 
-# Programming & Databases
+#### 🧩 Programming & Databases
+![Python](https://img.shields.io/badge/Python-green?logo=python)
+![SQL](https://img.shields.io/badge/SQL-red?logo=postgresql)
+![R](https://img.shields.io/badge/R-blue?logo=r)
+![MongoDB](https://img.shields.io/badge/NoSQL-orange?logo=mongodb)
 
-https://img.shields.io/badge/Python-green?logo=python
-https://img.shields.io/badge/SQL-red?logo=postgresql
-https://img.shields.io/badge/R-blue?logo=r
-https://img.shields.io/badge/NoSQL-orange?logo=mongodb
+#### 📊 Data Analysis & Visualization
+![Excel](https://img.shields.io/badge/Excel-green?logo=microsoft-excel)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-blue?logo=tableau)
+![Looker](https://img.shields.io/badge/Looker-lightblue?logo=looker)
 
-# Data Analysis & Visualization
+#### ⚙️ Data Engineering & Platforms
+![Databricks](https://img.shields.io/badge/Databricks-red?logo=databricks)
+![Snowflake](https://img.shields.io/badge/Snowflake-lightblue?logo=snowflake)
+![Azure](https://img.shields.io/badge/Azure-darkblue?logo=microsoft-azure)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
 
-https://img.shields.io/badge/Excel-green?logo=microsoft-excel
-https://img.shields.io/badge/PowerBI-yellow?logo=powerbi
-https://img.shields.io/badge/Tableau-blue?logo=tableau
-https://img.shields.io/badge/Looker-lightblue?logo=looker
+#### 🤖 Advanced Analytics & AI
+![Machine Learning](https://img.shields.io/badge/MachineLearning-grey?logo=scikit-learn)
+![Artificial Intelligence](https://img.shields.io/badge/ArtificialIntelligence-black?logo=ai)
+![Voice AI](https://img.shields.io/badge/VoiceAI-purple?logo=googleassistant)
+![GenAI](https://img.shields.io/badge/GenAI-darkblue?logo=openai)
+![LLMs](https://img.shields.io/badge/LLMs-darkgreen?logo=transformers)
+![NLP](https://img.shields.io/badge/NLP-teal?logo=spacy)
+![RAG](https://img.shields.io/badge/RAG-orange?logo=pinecone)
 
-# Data Engineering & Platforms
+#### 🗣️ Voice & Conversational Systems
+![Dialogflow](https://img.shields.io/badge/Dialogflow-orange?logo=dialogflow)
+![Rasa](https://img.shields.io/badge/Rasa-purple?logo=rasa)
+![Voiceflow](https://img.shields.io/badge/Voiceflow-blue?logo=voiceflow)
+![Azure Speech](https://img.shields.io/badge/AzureSpeech-darkblue?logo=microsoft-azure)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface)
 
-https://img.shields.io/badge/Databricks-red?logo=databricks
-https://img.shields.io/badge/Snowflake-lightblue?logo=snowflake
-https://img.shields.io/badge/Azure-darkblue?logo=microsoft-azure
-https://img.shields.io/badge/AWS-orange?logo=amazonaws
-
-# Advanced Analytics & AI
-
-https://img.shields.io/badge/MachineLearning-grey?logo=scikit-learn
-https://img.shields.io/badge/ArtificialIntelligence-black?logo=ai
-https://img.shields.io/badge/VoiceAI-purple?logo=googleassistant
-https://img.shields.io/badge/GenAI-darkblue?logo=openai
-https://img.shields.io/badge/LLMs-darkgreen?logo=transformers
-https://img.shields.io/badge/NLP-teal?logo=spacy
-https://img.shields.io/badge/RAG-orange?logo=pinecone
-
-# Voice & Conversational Systems
-
-https://img.shields.io/badge/Dialogflow-orange?logo=dialogflow
-https://img.shields.io/badge/Rasa-purple?logo=rasa
-https://img.shields.io/badge/Voiceflow-blue?logo=voiceflow
-https://img.shields.io/badge/AzureSpeech-darkblue?logo=microsoft-azure
-https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface
-
-# MLOps & Deployment
-
-https://img.shields.io/badge/Docker-blue?logo=docker
-https://img.shields.io/badge/FastAPI-teal?logo=fastapi
-https://img.shields.io/badge/MLflow-lightblue?logo=mlflow
-https://img.shields.io/badge/Airflow-darkred?logo=apache-airflow
+#### 🧰 MLOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![FastAPI](https://img.shields.io/badge/FastAPI-teal?logo=fastapi)
+![MLflow](https://img.shields.io/badge/MLflow-lightblue?logo=mlflow)
+![Airflow](https://img.shields.io/badge/Airflow-darkred?logo=apache-airflow)
 
 ---
 
