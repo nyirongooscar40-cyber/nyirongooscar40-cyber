@@ -36,11 +36,10 @@ Business Problem Solving with Data
 ### Advanced Analytics
 ![Machine Learning](https://img.shields.io/badge/MachineLearning-grey)
 ![AI](https://img.shields.io/badge/ArtificialIntelligence-black)
-https://img.shields.io/badge/VoiceAI-purple?logo=googleassistant  
-https://img.shields.io/badge/GenAI-darkblue?logo=openai  
-https://img.shields.io/badge/LLMs-darkgreen?logo=transformers  
-https://img.shields.io/badge/NLP-teal?logo=spacy
-
+![Voice AI](https://img.shields.io/badge/VoiceAI-purple?logo=googleassistant)
+![GenAI](https://img.shields.io/badge/GenAI-darkblue?logo=openai)
+![LLMs](https://img.shields.io/badge/LLMs-darkgreen?logo=transformers)
+![NLP](https://img.shields.io/badge/NLP-teal?logo=spacy)
 ---
 
 # 📂 Featured Projects
