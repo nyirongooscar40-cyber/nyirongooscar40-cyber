@@ -64,6 +64,31 @@ Business Problem Solving with Data
 
 # 📂 Featured Projects
 
+### 🤖 Customer Service Voice AI Chatbot
+- Designed and deployed a **voice-enabled chatbot** for a banking client to reduce call center wait times.
+- Integrated **Azure Speech** + **Dialogflow** with backend APIs for real‑time account queries.
+- Achieved **30% faster resolution** and improved customer satisfaction scores.
+
+### 🧩 Healthcare Conversational Assistant
+- Built a **voice AI assistant** to help patients schedule appointments and access medical FAQs.
+- Leveraged **LLMs (OpenAI + Hugging Face)** with **retrieval‑augmented generation (RAG)** for accurate responses.
+- Reduced manual support workload by **40%** while ensuring compliance with healthcare data standards.
+
+### 📊 Telecom Analytics Dashboard
+- Developed an **interactive dashboard** in **Power BI** to track churn, usage trends, and customer KPIs.
+- Connected **Databricks + Snowflake** pipelines for scalable data ingestion and transformation.
+- Enabled executives to make **data‑driven decisions** with real‑time insights.
+
+### 💹 Sales Performance Prediction Model
+- Created a **machine learning model** to forecast sales and identify growth opportunities.
+- Used **Python (scikit‑learn, XGBoost)** with automated feature engineering pipelines.
+- Delivered **15% improvement in forecast accuracy**, supporting strategic planning.
+
+### 🗣️ Voiceflow Conversational Design Portfolio
+- Designed **multi‑turn conversational flows** for customer onboarding and support.
+- Applied **UX principles** to make dialogues natural and efficient.
+- Showcased **Voiceflow prototypes** to stakeholders, accelerating buy‑in and deployment.
+
 ### Sales Performance Dashboard
 Built an interactive dashboard to track revenue, trends, and KPIs
 Identified key sales patterns to support business decision
